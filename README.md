@@ -6,10 +6,13 @@ Investors have asked that we gather more information about temperature trends be
 
 ### Results
 The following table shows us that for June the number of total temperature observations is 1700, with mean temperature of around 75 degrees and a standard deviation of around 3.26 degrees. Assuming a normal distribution of temperatures 99% of the data will fall between 64 - 84 degrees. June temperatures seem ideal for a surf/ice cream business. 
+
 ![JuneTemps](https://github.com/john10roberts/surfs_up/blob/main/Resources/JuneTemps.png)
 
 The following table shows us that for December the number of total temperature observations is 1517, with mean temperature of around 71 degrees and a standard deviation of around 3.75 degrees. Assuming a normal distribution of temperatures 99% of the data will fall between 60 - 82 degrees. While the December temperature range is a little more volatile and temperatures do decline slightly. It still is the perfect range of temperatures for surf/ice cream business. 
+
 ![DecTemps](https://github.com/john10roberts/surfs_up/blob/main/Resources/DecemberTemps.png)
+
 
 - Min temperature from both observations - 56 degrees
 - Max temperature from both observations - 85 degrees
