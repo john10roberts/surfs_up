@@ -21,10 +21,10 @@ The following table shows us that for December the number of total temperature o
 ### Summary
 The temperature ranges are ideal for board short surfing as sixty-six is the minimum according to surflearner.com. In the colder times a wetsuit would provide adequate temperature control to allow for surfing to be comfortable and safe. Additionally, I would want to see the precipitation levels for June and December to show investors that rainfall should not be a deterrent to our surf shop.
 
-![junedecrain](https://github.com/john10roberts/surfs_up/blob/main/resources/julydecrain.png)
+![junedecrain](https://github.com/john10roberts/surfs_up/blob/main/Resources/julydecrain.png)
 
 Lastly, I would want to see the observations by each of the stations to make sure that the temperature readings were consistent in different areas of the island. 
 
-![junedecTempsbyStation](https://github.com/john10roberts/surfs_up/blob/main/resources/junedectempsbystation.png)
+![junedecTempsbyStation](https://github.com/john10roberts/surfs_up/blob/main/Resources/junedectempsbystation.png)
 
 This data clearly shows that the temperature ranges are consistent at all the stations evaluated. 
